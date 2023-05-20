@@ -37,3 +37,7 @@ The project has the following structure:
 ## Deployment
 
 The application is deployed on `HuggingFace Spaces` using `Gradio` at [Here](https://huggingface.co/spaces/Chirag1994/Multilingual_Toxic_Comment_Classifier).
+
+## Blog/Project Report
+
+To learn about the project report or how to replicate the whole project please follow [this](https://chirag1994.github.io/chiragsharma.github.io/posts/Multlingual_Toxic_Comment_Classification/Multilingual_Toxic_Comment_Classification_Final.html).
