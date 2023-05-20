@@ -6,7 +6,7 @@
 
 It only takes one toxic comment to sour an online discussion. Identifing the toxicity in online conversations, where toxicity is defined as anything `rude, disrespectful or otherwise likely to make someone leave a discussion`, in an automated way using machine learning, at very early stage, is one way to protect voices in online conversations.
 
-## The Multi-lingual Toxic Comment Classification project is a powerful tool for content platforms operating in various domains, including social media, news websites, forums, and on the internet. By leveraging the latest Natural Language Processing techniques, it automatically detects and filters toxic comments in multiple languages, addressing the pressing issues of cyberbullying, hate speech and harassment.
+The Multi-lingual Toxic Comment Classification project is a powerful tool for content platforms operating in various domains, including social media, news websites, forums, and on the internet. By leveraging the latest Natural Language Processing techniques, it automatically detects and filters toxic comments in multiple languages, addressing the pressing issues of cyberbullying, hate speech and harassment.
 
 ---
 
