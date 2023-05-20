@@ -1,7 +1,5 @@
 # MultiLingual_Toxic_Comment_Classification
 
----
-
 ## Problem Statement and Description
 
 It only takes one toxic comment to sour an online discussion. Identifing the toxicity in online conversations, where toxicity is defined as anything `rude, disrespectful or otherwise likely to make someone leave a discussion`, in an automated way using machine learning, at very early stage, is one way to protect voices in online conversations.
@@ -12,7 +10,7 @@ The Multi-lingual Toxic Comment Classification project is a powerful tool for co
 
 ## Dataset Description
 
-The dataset has been taken from `Kaggle` competition organized by the `Jigsaw/Conversation AI` team. The dataset contains several files:
+The dataset has been taken from `Kaggle` competition organized by the [`Jigsaw/Conversation AI`](https://www.kaggle.com/competitions/jigsaw-multilingual-toxic-comment-classification/overview) team. The dataset contains several files:
 
 - jigsaw-toxic-comment-train.csv - data from our [first competition](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge). The dataset is made up of English comments from Wikipedia’s talk page edits.
 - jigsaw-unintended-bias-train.csv - data from our [second competition](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification). This is an expanded version of the Civil Comments dataset with a range of additional labels.
